@@ -48,8 +48,8 @@ Innovative Video Game Designer & Unity Developer || Technology Enthusiast || Adv
 ---
 
 ## 📊 GitHub Stats  
-![Taha's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+![Taha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taha2000587814&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Taha2000587814&layout=compact&theme=radical)  
 
 ---
 
