@@ -1,6 +1,6 @@
 # 🎮 Taha Abdelkarim
 
-**Mid-Level Unity Gameplay / Systems Developer**  
+**Unity Gameplay & Systems Developer**  
 Unity C# • Gameplay Systems • Networking • Tools • Mobile & Real-Time 3D
 
 ![Profile views](https://komarev.com/ghpvc/?username=Taha2000587814&color=blue)  
@@ -10,7 +10,7 @@ Unity C# • Gameplay Systems • Networking • Tools • Mobile & Real-Time 3D
 
 ## 🚀 About Me
 
-I’m a **Mid-Level Unity Gameplay / Systems Developer** with 3+ years of professional experience building scalable gameplay systems, multiplayer features, and performance-focused real-time 3D applications using Unity.
+I’m a **Unity Gameplay & Systems Developer** with 3+ years of professional experience building scalable gameplay systems, multiplayer features, and performance-focused real-time 3D applications using Unity.
 
 My core strength lies in **systems-oriented development**: clean C# architecture, data-driven gameplay, custom editor tools, and production-ready pipelines that support fast iteration and long-term maintainability across **mobile, web, and PC** platforms.
 
@@ -46,7 +46,9 @@ I view interactive media as a powerful medium for learning, experimentation, and
 - Unity Authentication
 - Cloud Save
 - Economy
-- Remote Config
+- Unity Ads Intergration & Mediation 
+- Leaderboards Intergration 
+- Firebase Push Notifications 
 - Analytics integration
 - Live-ops ready systems for updates & balancing
 - Secure client–service communication patterns
